@@ -1,6 +1,5 @@
 <p float="center>
-          
-<img src="https://user-images.githubusercontent.com/113609040/208617753-914ba0f6-322a-4de9-9d82-4aac20204bb3.png" width=22% height=35%>
+         
 
 <img src="https://user-images.githubusercontent.com/113609040/210484759-98a7a3ec-e5a4-48b6-8dec-c33c376834c3.png" width=30% height=40%>
 
